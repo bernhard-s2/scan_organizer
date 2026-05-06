@@ -50,13 +50,13 @@ After installation, run a test:
 Folders:
 
     ~/scan_organizer2/
-    ├── scan_organizer.py   # CLI-main script
-    ├── core/               # 
-    │   └── __init__.py
-    ├── config/
-    │   └── settings.py     # 
-    ├── requirements.txt    # Python-requirements
-    └── venv/              # Virtuelle env (option)
+      ├── scan_organizer.py   # CLI-main script
+      ├── core/               # 
+      │   └── __init__.py
+      ├── config/
+      │   └── settings.py     # 
+      ├── requirements.txt    # Python-requirements
+      └── venv/               # Virtual env (option)
 
 
 
