@@ -35,10 +35,16 @@ Whether you're dealing with **invoices, contracts, type plates, or phone photos*
 ## 📥 Installation
 ### **Option 1: Automatic Installation (Recommended)**
 Download and run the **INSTALL.sh** script. It will automatically fetch the latest `tar.gz` from Bit-Field and set everything up:
-```bash
-wget https://linux.bit-field.de/downloads/INSTALL.sh
-chmod +x INSTALL.sh
-./INSTALL.sh
+
+   wget https://linux.bit-field.de/downloads/INSTALL.sh
+   chmod +x INSTALL.sh
+   ./INSTALL.sh
+
+
+After installation, run a test:
+    ./scan_organizer.py file ~/scans/test.jpg --label "Test"
+(Replace ~/scans/test.jpg with your document path.)
+
 
 ---
 
