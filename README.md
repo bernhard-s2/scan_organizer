@@ -72,3 +72,6 @@ Folders:
 | `./scan_organizer.py --file rechnung.jpg --pdf_dir "Verträge"` | Processes a file and saves the PDF to `~/dokumente/Verträge/`. |
 | `./scan_organizer.py --search "Muster AG"` | Searches **all documents** for the term `"Muster AG"`. |
 | `./scan_organizer.py --help` | Shows the **help page** with all available options. |
+
+
+**Questions or feedback?** Open a [GitHub Issue](https://github.com/bernhard-s2/scan_organizer/issues).
