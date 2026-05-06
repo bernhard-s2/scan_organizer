@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# System/Editor
+.DS_Store
+.idea/
+.vscode/
+
+# Logs und temporäre Dateien
+*.log
+*.tmp
+
