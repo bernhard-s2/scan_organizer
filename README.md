@@ -25,10 +25,10 @@ Whether you're dealing with **invoices, contracts, type plates, or phone photos*
 ---
 
 ## 🔹 Why Use Scan Organizer?
-✔ **Simple:** No Docker containers, no complex databases – **runs on any Linux machine**.
-✔ **Fast:** Ready to use in **about 15 minutes** (using `INSTALL.sh`).
-✔ **Automatic:** Documents are **immediately tagged and sorted** – you don’t have to worry about it.
-✔ **Secure:** With the **SaaS version**, your documents are **protected even if the device is lost**.
++ **Simple:** No Docker containers, no complex databases – **runs on any Linux machine**.
++ **Fast:** Ready to use in **about 15 minutes** (using `INSTALL.sh`).
++ **Automatic:** Documents are **immediately tagged and sorted** – you don’t have to worry about it.
++ **Secure:** With the **SaaS version**, your documents are **protected even if the device is lost**.
 
 ---
 
