@@ -41,13 +41,14 @@ chmod +x INSTALL.sh
 ./INSTALL.sh
 
 ---
+
 ## 📌 Command Examples
    Command | Description |
- |---------|-------------|
- | `./scan_organizer.py --scan 'escl:http://192.168.178.37:80'` | Scans from the scanner with this IP and saves the document. |
- | `./scan_organizer.py --scan brother --source ADF` | Scans from the **Brother scanner** using the **Automatic Document Feeder (ADF)**. |
- | `./scan_organizer.py --scan --pdf_dir "Rechnungen/2026"` | Scans and saves the PDF to `~/dokumente/Rechnungen/2026/`. |
- | `./scan_organizer.py --file rechnung.jpg --label "Rechnung"` | Processes an existing file (JPG/PNG) and assigns the label **"Rechnung"**. |
- | `./scan_organizer.py --file rechnung.jpg --pdf_dir "Verträge"` | Processes a file and saves the PDF to `~/dokumente/Verträge/`. |
- | `./scan_organizer.py --search "Muster AG"` | Searches **all documents** for the term `"Muster AG"`. |
- | `./scan_organizer.py --help` | Shows the **help page** with all available options. |
+|---------|-------------|
+| `./scan_organizer.py --scan 'escl:http://192.168.178.37:80'` | Scans from the scanner with this IP and saves the document. |
+| `./scan_organizer.py --scan brother --source ADF` | Scans from the **Brother scanner** using the **Automatic Document Feeder (ADF)**. |
+| `./scan_organizer.py --scan --pdf_dir "Rechnungen/2026"` | Scans and saves the PDF to `~/dokumente/Rechnungen/2026/`. |
+| `./scan_organizer.py --file rechnung.jpg --label "Rechnung"` | Processes an existing file (JPG/PNG) and assigns the label **"Rechnung"**. |
+| `./scan_organizer.py --file rechnung.jpg --pdf_dir "Verträge"` | Processes a file and saves the PDF to `~/dokumente/Verträge/`. |
+| `./scan_organizer.py --search "Muster AG"` | Searches **all documents** for the term `"Muster AG"`. |
+| `./scan_organizer.py --help` | Shows the **help page** with all available options. |
