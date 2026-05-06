@@ -36,8 +36,8 @@ Whether you're dealing with **invoices, contracts, type plates, or phone photos*
 ### **Option 1: Automatic Installation (Recommended)**
 Download and run the **INSTALL.sh** script. It will automatically fetch the latest `tar.gz` from Bit-Field and set everything up:
 
-   wget https://linux.bit-field.de/downloads/INSTALL.sh
-   chmod +x INSTALL.sh
+    wget https://linux.bit-field.de/downloads/INSTALL.sh
+    chmod +x INSTALL.sh
    ./INSTALL.sh
 
 
