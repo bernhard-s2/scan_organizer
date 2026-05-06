@@ -47,6 +47,18 @@ After installation, run a test:
 
 (Replace ~/scans/test.jpg with your document path.)
 
+Folders:
+
+    ~/scan_organizer2/
+    ├── scan_organizer.py   # CLI-main script
+    ├── core/               # 
+    │   └── __init__.py
+    ├── config/
+    │   └── settings.py     # 
+    ├── requirements.txt    # Python-requirements
+    └── venv/              # Virtuelle env (option)
+
+
 
 ---
 
