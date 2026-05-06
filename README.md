@@ -38,7 +38,7 @@ Download and run the **INSTALL.sh** script. It will automatically fetch the late
 
     wget https://linux.bit-field.de/downloads/INSTALL.sh
     chmod +x INSTALL.sh
-   ./INSTALL.sh
+    ./INSTALL.sh
 
 
 After installation, run a test:
