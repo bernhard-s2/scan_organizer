@@ -42,7 +42,9 @@ Download and run the **INSTALL.sh** script. It will automatically fetch the late
 
 
 After installation, run a test:
+
     ./scan_organizer.py file ~/scans/test.jpg --label "Test"
+
 (Replace ~/scans/test.jpg with your document path.)
 
 
