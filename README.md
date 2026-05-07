@@ -74,4 +74,17 @@ Folders:
 | `./scan_organizer.py --help` | Shows the **help page** with all available options. |
 
 
+---
+## 🔗 Alternatives
+
+If you're looking for **AI-based document classification**, check out:
+- [scan-organizer (AI-based)](https://github.com/etawiah/scan-organizer) – Uses Claude API for classification (requires internet, paid for high volume).
+
+**Our focus is different:**
++ **100% local** – No cloud, no data uploads (ideal for privacy-sensitive environments).
++ **Simple & lightweight** – No AI/ML, just keyword lists and Tesseract OCR.
++ **Linux-optimized** – Deep SANE scanner integration.
++ **Free & open-source** – No API costs, **runs even on a Raspberry Pi**.
+
+
 **Questions or feedback?** Open a [GitHub Issue](https://github.com/bernhard-s2/scan_organizer/issues).
