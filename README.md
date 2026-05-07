@@ -87,4 +87,5 @@ If you're looking for **AI-based document classification**, check out:
 + **Free & open-source** – No API costs, **runs even on a Raspberry Pi**.
 
 
-## **Questions or feedback?** Open a [GitHub Issue](https://github.com/bernhard-s2/scan_organizer/issues).
+## **Questions or feedback?** 
+Open a [GitHub Issue](https://github.com/bernhard-s2/scan_organizer/issues).
